@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root{
   --primary:#0d6efd;
   --dark:#0b2a3a;
@@ -40,3 +41,48 @@ a.nav-link:hover{opacity:0.9}
 :focus{outline:2px solid rgba(13,110,253,0.2); outline-offset:2px}
 
 /* End of CSS */
+=======
+:root{
+  --primary:#0d6efd;
+  --dark:#0b2a3a;
+  --accent:#0ea5a4;
+  --muted:#6c757d;
+  --bg-gradient-start: linear-gradient(135deg,#0b2a3a 0%, #0d6efd 100%);
+}
+
+*{box-sizing:border-box}
+body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color:#14323a}
+
+.site-header{background:linear-gradient(90deg, rgba(13,110,253,0.95), rgba(10,76,159,0.9));}
+.site-header .navbar-brand{color:#fff; text-decoration:none}
+.brand-logo{width:48px;height:48px;border-radius:8px;background:rgba(255,255,255,0.14);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700}
+
+.hero{background:linear-gradient(180deg, rgba(14,78,139,0.04), rgba(255,255,255,0));}
+.hero-image{max-height:320px; object-fit:cover}
+
+.bg-gradient{background:Black !Important;}
+
+.card.service-card img{height:160px; object-fit:cover}
+
+.map-placeholder{height:220px; background:linear-gradient(180deg, #f8f9fa, #e9eef2); display:flex; align-items:center; justify-content:center}
+
+.site-footer{background:#071428}
+
+/* Responsive tweaks */
+@media (max-width:767px){
+  .hero-image{max-height:220px}
+  .brand-logo{width:40px;height:40px}
+}
+
+/* Small UX helpers */
+a.nav-link{color:rgba(255,255,255,0.9); text-decoration:none}
+a.nav-link:hover{opacity:0.9}
+
+.btn-primary{background:var(--primary);border-color:var(--primary)}
+
+/* Accessibility */
+:focus{outline:2px solid rgba(13,110,253,0.2); outline-offset:2px}
+
+/* End of CSS */
+
+>>>>>>> 03536df8318a3daf8990da98fde575315a99fda2
