@@ -75,7 +75,7 @@
         </div>
         <div class="col-lg-6 text-center">
           <!-- Image placeholder -->
-          <img src="Hospital.jpg" alt="Hospital exterior" class="img-fluid rounded shadow hero-image" />
+          <img src="/images/Hospital.jpg" alt="Hospital exterior" class="img-fluid rounded shadow hero-image" />
         </div>
       </div>
     </div>
@@ -121,7 +121,7 @@
         <!-- Card template repeated -->
         <div class="col-md-6 col-lg-4">
           <div class="card h-100 service-card">
-            <img src="Cardiology.jpg" class="card-img-top" alt="Cardiology image">
+            <img src="/images/Cardiology.jpg" class="card-img-top" alt="Cardiology image">
             <div class="card-body">
               <h5 class="card-title">Cardiology</h5>
               <p class="card-text">Interventional cardiology including device support (ICD/CRTD), management of heart disease, blood pressure treatment and cardiac monitoring.</p>
@@ -131,7 +131,7 @@
 
         <div class="col-md-6 col-lg-4">
           <div class="card h-100 service-card">
-            <img src="Pulmonology.jpg" class="card-img-top" alt="Pulmonology image">
+            <img src="/images/Pulmonology.jpg" class="card-img-top" alt="Pulmonology image">
             <div class="card-body">
               <h5 class="card-title">Pulmonology</h5>
               <p class="card-text">Diagnosis and treatment of respiratory problems, acute care and ventilator support when necessary.</p>
@@ -141,7 +141,7 @@
 
         <div class="col-md-6 col-lg-4">
           <div class="card h-100 service-card">
-            <img src="Nephrology.jpg" class="card-img-top" alt="Nephrology image">
+            <img src="/images/Nephrology.jpg" class="card-img-top" alt="Nephrology image">
             <div class="card-body">
               <h5 class="card-title">Nephrology</h5>
               <p class="card-text">Management of kidney disorders, diagnostics and long‑term care planning for renal patients.</p>
@@ -151,7 +151,7 @@
 
         <div class="col-md-6 col-lg-4">
           <div class="card h-100 service-card">
-            <img src="Gastroenterology.jpg" class="card-img-top" alt="Gastroenterology image">
+            <img src="/images/Gastroenterology.jpg" class="card-img-top" alt="Gastroenterology image">
             <div class="card-body">
               <h5 class="card-title">Gastroenterology</h5>
               <p class="card-text">Treatment for digestive tract conditions, diagnostics and follow‑up care.</p>
@@ -161,7 +161,7 @@
 
         <div class="col-md-6 col-lg-4">
           <div class="card h-100 service-card">
-            <img src="Dermatology & Cosmetology.jpg" class="card-img-top" alt="Dermatology image">
+            <img src="/images/Dermatology & Cosmetology.jpg" class="card-img-top" alt="Dermatology image">
             <div class="card-body">
               <h5 class="card-title">Dermatology & Cosmetology</h5>
               <p class="card-text">Skin treatments, hair care procedures, permanent hair removal and aesthetic services.</p>
@@ -171,7 +171,7 @@
 
         <div class="col-md-6 col-lg-4">
           <div class="card h-100 service-card">
-            <img src="Critical Care.jpg" class="card-img-top" alt="Critical care image">
+            <img src="/images/Critical Care.jpg" class="card-img-top" alt="Critical care image">
             <div class="card-body">
               <h5 class="card-title">Critical Care / Emergency</h5>
               <p class="card-text">Emergency services and intensive care monitoring for acute patients.</p>
@@ -293,5 +293,6 @@
 <!-- ===================================================================== -->
 
 <!-- Filename: styles.css -->
+
 
 
