@@ -16,7 +16,7 @@ body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica
 .hero{background:linear-gradient(180deg, rgba(14,78,139,0.04), rgba(255,255,255,0));}
 .hero-image{max-height:320px; object-fit:cover}
 
-.bg-gradient{background:Black;}
+.bg-gradient{background:Black !Important;}
 
 .card.service-card img{height:160px; object-fit:cover}
 
@@ -40,3 +40,4 @@ a.nav-link:hover{opacity:0.9}
 :focus{outline:2px solid rgba(13,110,253,0.2); outline-offset:2px}
 
 /* End of CSS */
+
