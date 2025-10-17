@@ -73,7 +73,9 @@ body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica
   .hero-image{max-height:220px}
   .brand-logo{width:40px;height:40px}
 }
-
+/* .btn-menu {
+    display: none;
+} */
 /* Small UX helpers */
 a.nav-link{color:rgba(255,255,255,0.9); text-decoration:none}
 a.nav-link:hover{opacity:0.9}
@@ -82,6 +84,16 @@ a.nav-link:hover{opacity:0.9}
 
 /* Accessibility */
 :focus{outline:2px solid rgba(13,110,253,0.2); outline-offset:2px}
+
+@media (max-width:576px){
+  .header-discription {
+    display: none;
+}
+    img.hspt-img {
+        width: 100%;
+    }
+    
+}
 
 /* End of CSS */
 
